@@ -18,7 +18,7 @@ ON OrderDetails.OrderID=Orders.OrderID
 JOIN Employees
 ON Orders.EmployeeID = Employees.EmployeeID;
 
-Merge First and last name
+
 
 
 
