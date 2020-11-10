@@ -1,5 +1,5 @@
 # Ruby Exercise: You will use the ruby development environment you set up on your machine for Backend 1.
-# Write a program which asks the user for a number of years, and then prints out how many hours are in that many years.  Then it asks for a number of decades, and prints out the number of minutes are in that many decades.  Then it asks for the user's age, and prints out the number of seconds old the user is. Call this program years_to_hours.rb. 
+# Write a program which asks the user for a number of years, and then prints out how many hours are in that many years.  Then it asks for a number of decades, and prints out the number of minutes are in that many decades.  Then it asks for the user's age, and prints out the number of seconds old the user is. Call this program years_to_hours.rb.
 
 puts "Enter a number of years"
 years = gets.chomp # this returns a string
